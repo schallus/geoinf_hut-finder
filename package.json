@@ -1,0 +1,22 @@
+{
+  "name": "labgeoinf",
+  "version": "1.0.0",
+  "description": "Geoinf hut finder",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./ -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geoinformation",
+    "hut",
+    "finder",
+    "heig-vd",
+    "lab"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "0.11.1"
+  }
+}
